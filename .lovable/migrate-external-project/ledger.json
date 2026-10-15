@@ -1,0 +1,8 @@
+[
+ {"capability":"code","source":"Vite React SPA","outcome":"migrate","status":"verified","next_action":null},
+ {"capability":"assets","source":"public/images","outcome":"migrate","status":"verified","next_action":null},
+ {"capability":"brand settings (browser storage)","source":"localStorage","outcome":"migrate","status":"verified","next_action":null},
+ {"capability":"WhatsApp contact links","source":"wa.me links","outcome":"preserve","status":"verified","next_action":null},
+ {"capability":"database/records/auth/storage/schedules/webhooks","source":"none detected","outcome":"absent","status":"verified","next_action":null},
+ {"capability":"secrets","source":"VITE_WHATSAPP_NUMBER (public value, default baked in)","outcome":"preserve","status":"verified","next_action":null}
+]
